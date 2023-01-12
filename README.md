@@ -1,4 +1,4 @@
-# Yulav Fish Inventory
+# Yulav Fish Repository
 One of my best friends started a fish business. He buys, breeds, grows and sells them. He's doing it all on one leg.
 
 I wanted to take a part of his amazing work, so I built a system to help him track his inventory and profits.
