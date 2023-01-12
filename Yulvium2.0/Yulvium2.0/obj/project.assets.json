@@ -601,11 +601,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\שחר כהן\\Desktop\\‏‏תיקיה חדשה (3)\\YulavFishInventory\\Yulvium2.0\\Yulvium2.0\\Yulvium2.0.csproj",
+      "projectUniqueName": "C:\\Yulavium\\YulavFishRepository\\Yulvium2.0\\Yulvium2.0\\Yulvium2.0.csproj",
       "projectName": "Yulvium2.0",
-      "projectPath": "C:\\Users\\שחר כהן\\Desktop\\‏‏תיקיה חדשה (3)\\YulavFishInventory\\Yulvium2.0\\Yulvium2.0\\Yulvium2.0.csproj",
+      "projectPath": "C:\\Yulavium\\YulavFishRepository\\Yulvium2.0\\Yulvium2.0\\Yulvium2.0.csproj",
       "packagesPath": "C:\\Users\\שחר כהן\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\שחר כהן\\Desktop\\‏‏תיקיה חדשה (3)\\YulavFishInventory\\Yulvium2.0\\Yulvium2.0\\obj\\",
+      "outputPath": "C:\\Yulavium\\YulavFishRepository\\Yulvium2.0\\Yulvium2.0\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

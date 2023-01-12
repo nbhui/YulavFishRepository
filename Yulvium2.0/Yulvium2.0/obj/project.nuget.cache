@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q2ZnO7ExK4R2ZA92C3Nc0dgqu635vPPig+iKuN7wNmBrN9AEA4g+cNlUIFhzv/OrI6XE/hN0YFjsKhdxv9msUA==",
+  "dgSpecHash": "PQdZ/xBhqhCdsrSPtqFDHOKr4Y86jKs65INpnYc8euiGv3qcYJHep8G6lrhrCLFgn1sLuuJD8HNd69xnzGPNlw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\שחר כהן\\Desktop\\‏‏תיקיה חדשה (3)\\YulavFishInventory\\Yulvium2.0\\Yulvium2.0\\Yulvium2.0.csproj",
+  "projectFilePath": "C:\\Yulavium\\YulavFishRepository\\Yulvium2.0\\Yulvium2.0\\Yulvium2.0.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\שחר כהן\\.nuget\\packages\\guna.ui2.winforms\\2.0.3.9\\guna.ui2.winforms.2.0.3.9.nupkg.sha512",
     "C:\\Users\\שחר כהן\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
