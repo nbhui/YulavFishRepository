@@ -1,0 +1,88 @@
+C:\Users\שחר כהן\source\repos\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\Yulvium2.0.exe
+C:\Users\שחר כהן\source\repos\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\Yulvium2.0.deps.json
+C:\Users\שחר כהן\source\repos\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\Yulvium2.0.runtimeconfig.json
+C:\Users\שחר כהן\source\repos\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\Yulvium2.0.dll
+C:\Users\שחר כהן\source\repos\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\Yulvium2.0.pdb
+C:\Users\שחר כהן\source\repos\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.csproj.AssemblyReference.cache
+C:\Users\שחר כהן\source\repos\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.Form1.resources
+C:\Users\שחר כהן\source\repos\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.Form2.resources
+C:\Users\שחר כהן\source\repos\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.Properties.Resources.resources
+C:\Users\שחר כהן\source\repos\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.csproj.GenerateResource.cache
+C:\Users\שחר כהן\source\repos\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\שחר כהן\source\repos\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.AssemblyInfoInputs.cache
+C:\Users\שחר כהן\source\repos\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.AssemblyInfo.cs
+C:\Users\שחר כהן\source\repos\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.csproj.CoreCompileInputs.cache
+C:\Users\שחר כהן\source\repos\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.dll
+C:\Users\שחר כהן\source\repos\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\refint\Yulvium2.0.dll
+C:\Users\שחר כהן\source\repos\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.pdb
+C:\Users\שחר כהן\source\repos\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.genruntimeconfig.cache
+C:\Users\שחר כהן\source\repos\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\ref\Yulvium2.0.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\Yulvium2.0.exe
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\Yulvium2.0.deps.json
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\Yulvium2.0.runtimeconfig.json
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\Yulvium2.0.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\Yulvium2.0.pdb
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.csproj.AssemblyReference.cache
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.Properties.Resources.resources
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.csproj.GenerateResource.cache
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.AssemblyInfoInputs.cache
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.AssemblyInfo.cs
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.csproj.CoreCompileInputs.cache
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\refint\Yulvium2.0.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.pdb
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.genruntimeconfig.cache
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\ref\Yulvium2.0.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.csproj.CopyComplete
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.login.resources
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.ManageOrders.resources
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.ManageFish.resources
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.ManageSpecies.resources
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.ViewOrders.resources
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.Home.resources
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (2)\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.ManageDeath.resources
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\Yulvium2.0.exe
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\Yulvium2.0.deps.json
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\Yulvium2.0.runtimeconfig.json
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\Yulvium2.0.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\Yulvium2.0.pdb
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.csproj.AssemblyReference.cache
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.Home.resources
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.login.resources
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.ManageDeath.resources
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.ManageFish.resources
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.ManageOrders.resources
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.ManageSpecies.resources
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.Properties.Resources.resources
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.ViewOrders.resources
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.csproj.GenerateResource.cache
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.AssemblyInfoInputs.cache
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.AssemblyInfo.cs
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.csproj.CoreCompileInputs.cache
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.csproj.CopyComplete
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\refint\Yulvium2.0.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.pdb
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.genruntimeconfig.cache
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\ref\Yulvium2.0.dll
+C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.changePassword.resources
