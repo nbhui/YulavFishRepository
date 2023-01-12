@@ -11,6 +11,5 @@ The Application allows to:
 *Create, delete and update fish species  
 *Add Orders  
 *Calculate net profits  
-*Calculate dead fish %  
-*When orders a product, the product quantity is updated  
-*Track quantity of fish in store when updating the amount of dead fish  
+*Calculate dead fish % and update fish quantity   
+*Quantity is updated when order is placed  
