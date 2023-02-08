@@ -9,7 +9,7 @@ namespace Yulvium2._0
         static void Main()
         {
             ApplicationConfiguration.Initialize();
-            Application.Run(new login());
+            Application.Run(new ManageOrders());
         }
     }
 }

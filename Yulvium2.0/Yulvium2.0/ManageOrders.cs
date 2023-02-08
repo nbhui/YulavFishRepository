@@ -1,10 +1,12 @@
-﻿using System;
+﻿using Microsoft.VisualBasic;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Data.SqlClient;
 using System.Diagnostics.CodeAnalysis;
 using System.Drawing;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -184,7 +186,8 @@ namespace Yulvium2._0
 
         private void orderGV_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-
+            currQty.Text = orderGV.SelectedRows[0].Cells[2].Value.ToString();
+            currOrderName.Text = orderGV.SelectedRows[0].Cells[1].Value.ToString();
         }
 
         private void button8_Click(object sender, EventArgs e)
@@ -202,6 +205,7 @@ namespace Yulvium2._0
 
         private void orderDate_ValueChanged(object sender, EventArgs e)
         {
+           
         }
 
         private void button10_Click(object sender, EventArgs e)
@@ -253,6 +257,32 @@ namespace Yulvium2._0
             }
             
         }
+
+        private void deleteButton_Click(object sender, EventArgs e)
+        {
+            quantity = Convert.ToInt32(currQty.Text);
+            num -= 1;
+            currentTotal -=  sum;
+            totalProfit -= profit;
+            totalItems -= quantity;
+            totalBox.Text = currentTotal.ToString();
+            totalitemsBox.Text = totalItems.ToString();
+            profitBox.Text = totalProfit.ToString();
+            
+           
+            //update the stock in database:
+            con.Open();
+            string querry = "update productTBL set Fquantity = '" + stock + "'where Fname='" + currOrderName.Text + "';";
+            SqlCommand cmd = new SqlCommand(querry, con);
+            cmd.ExecuteNonQuery();
+            con.Close();
+            populate();
+
+            currOrderName.Clear();
+            currQty.Clear();
+            orderGV.Rows.Clear();
+        }
+
         void updateStock()
         {
             con.Open();
@@ -271,10 +301,7 @@ namespace Yulvium2._0
        
 
 
-        private void deleteButton_Click(object sender, EventArgs e)
-        {
-
-        }
+        
     }
 
     

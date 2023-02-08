@@ -89,5 +89,10 @@ namespace Yulvium2._0
         {
             orderID.Clear();
         }
+
+        private void orderID_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

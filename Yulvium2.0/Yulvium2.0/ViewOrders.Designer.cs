@@ -172,6 +172,7 @@
             this.orderID.Name = "orderID";
             this.orderID.Size = new System.Drawing.Size(151, 26);
             this.orderID.TabIndex = 68;
+            this.orderID.TextChanged += new System.EventHandler(this.orderID_TextChanged);
             // 
             // button8
             // 

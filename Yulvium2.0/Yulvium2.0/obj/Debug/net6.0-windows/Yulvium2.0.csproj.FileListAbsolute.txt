@@ -86,3 +86,38 @@ C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\
 C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.genruntimeconfig.cache
 C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\ref\Yulvium2.0.dll
 C:\Users\שחר כהן\Desktop\‏‏תיקיה חדשה (3)\YulavFishInventory\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.changePassword.resources
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\Yulvium2.0.exe
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\Yulvium2.0.deps.json
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\Yulvium2.0.runtimeconfig.json
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\Yulvium2.0.dll
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\Yulvium2.0.pdb
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\System.Management.dll
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.csproj.AssemblyReference.cache
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.changePassword.resources
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.Home.resources
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.login.resources
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.ManageDeath.resources
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.ManageFish.resources
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.ManageOrders.resources
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.ManageSpecies.resources
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.Properties.Resources.resources
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2._0.ViewOrders.resources
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.csproj.GenerateResource.cache
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.AssemblyInfoInputs.cache
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.AssemblyInfo.cs
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.csproj.CoreCompileInputs.cache
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.csproj.CopyComplete
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.dll
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\refint\Yulvium2.0.dll
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.pdb
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\Yulvium2.0.genruntimeconfig.cache
+C:\Yulavium\YulavFishRepository\Yulvium2.0\Yulvium2.0\obj\Debug\net6.0-windows\ref\Yulvium2.0.dll
